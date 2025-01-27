@@ -4,14 +4,14 @@
 - 📫 How to reach me: My Discord is "scp_foundation_05_1"
 - 😄 Pronouns: He/His
 - 🎮 My favorite games are:
-	 - GTA V
-	 - No Man's Sky
-	 - Subnautica (all parts)
-	 - Witcher 3
-	 - Valheim
-	 - The Forest / Sons of the Forest
-   - CS 2
-   - Daemon X Machina
-   - Pulsar: Lost Colony
-   - Escape The Backrooms
-   - Backrooms: Escape Together
+	- GTA V
+	- No Man's Sky
+	- Subnautica (all parts)
+	- Witcher 3
+	- Valheim
+	- The Forest / Sons of the Forest
+	- CS 2
+	- Daemon X Machina
+	- Pulsar: Lost Colony
+	- Escape The Backrooms
+	- Backrooms: Escape Together
