@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danylo
+- 👀 I’m interested in Programming and Machine Learning
+- 🌱 I’m currently learning Rust and C#
+- 📫 How to reach me: My Discord is "scp_foundation_05_1"
+- 😄 Pronouns: He/His
