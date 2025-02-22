@@ -15,3 +15,5 @@
 	- Pulsar: Lost Colony
 	- Escape The Backrooms
 	- Backrooms: Escape Together
+ 	- Read Dead Redemption 2
+  	- Cyberpunk
