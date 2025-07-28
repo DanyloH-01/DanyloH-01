@@ -20,7 +20,11 @@
   	- Cyberpunk
 - My favorite anime/manga/ranobe:
 	- Attack on Titan
+ 	- Hunter X Hunter
+  	- Grand Blue Dreaming
  	- That Time I Got Reincarnated as a Slime
 	- Mushoku Tensei: Jobless Reincarnation
 	- Overlord
 	- The Eminence in Shadow
+ 	- Gachiakuta
+  	- Arifureta: From Commonplace to World's Strongest
