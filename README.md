@@ -22,3 +22,5 @@
 	- Attack on Titan
  	- That Time I Got Reincarnated as a Slime
 	- Mushoku Tensei: Jobless Reincarnation
+	- Overlord
+	- The Eminence in Shadow
