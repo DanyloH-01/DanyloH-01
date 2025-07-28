@@ -18,3 +18,7 @@
 	- Backrooms: Escape Together
  	- Read Dead Redemption 2
   	- Cyberpunk
+- My favorite anime/manga/ranobe:
+	- Attack on Titan
+ 	- That Time I Got Reincarnated as a Slime
+	- Mushoku Tensei: Jobless Reincarnation
