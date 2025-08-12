@@ -2,7 +2,7 @@
 - I’m interested in Programming and Machine Learning
 - I am currently gaining experience as a front-end developer.
 - I’m currently learning Rust and C#
-- How to reach me: My Discord is "scp_foundation_05_1"
+- How to reach me: My Discord is "_moraviel"
 - Pronouns: He/His
 - My favorite games are:
 	- GTA V
