@@ -2,6 +2,7 @@
 I'm currently looking for an project and gaining experience as a front-end developer.<br>
 I ready to collaborate with interesting developers!<br>
 I'm currently learning Docker and DevOps, also i am interested in Mobile Development and Machine Learning.
+All my personal projects will be save on my [GitLab](https://git.moraviel.dev)
 
 
 ## 🌐 Socials:
